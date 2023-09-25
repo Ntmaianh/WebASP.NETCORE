@@ -1,0 +1,8 @@
+{
+  // đặt connection string vào đây
+  // Trusted_Connection đăng nhập tài khoản windown
+  "ConnectionStrings": { // Server=.;Database=eShopSolution;Trusted_Connection=True;
+    // =NTMAIANH\\SQLEXPRESS
+    "Database": "Server=NTMAIANH\\SQLEXPRESS;Database=eShopSolution;Trusted_Connection=True;TrustServerCertificate=True"
+  }
+}
